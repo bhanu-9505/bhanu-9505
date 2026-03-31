@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Bhanu 👋
 
-<!--
-**bhanu-9505/bhanu-9505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 CSE Student
+- 💻 Web Developer (React)
+- 🤖 Interested in AI & Machine Learning
+- 🔭 Currently working on AI Food Calorie Estimation Project
+- 🌱 Currently learning React, Firebase, Machine Learning
+- 💬 Ask me about HTML, CSS, JavaScript, React
+- ⚡ Fun fact: I love building real-world projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+HTML | CSS | JavaScript | React | Python | Firebase | Git | GitHub | Machine Learning
+
+---
+
+## 📂 Projects
+- 🍔 AI Food Calorie Estimator
+- 🎬 Movie App (React)
+- 🌐 Portfolio Website
+- 🏫 Institute Website (IDR Website)
+
+---
+
+## 📊 GitHub Stats
+![Bhanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhanu-9505&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanu-9505&layout=compact&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhanu-9505&theme=dark)
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/bhanu-9505
+- Email: your-email@example.com
+- LinkedIn: your-linkedin-link
