@@ -35,5 +35,5 @@ HTML | CSS | JavaScript | React | Python | Firebase | Git | GitHub | Machine Lea
 
 ## 📫 Contact Me
 - GitHub: https://github.com/bhanu-9505
-- Email: your-email@example.com
-- LinkedIn: your-linkedin-link
+- Email: bhanunayak9505@gmail.com
+- LinkedIn: https://www.linkedin.com/in/bhanu-nayak-a90130344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
